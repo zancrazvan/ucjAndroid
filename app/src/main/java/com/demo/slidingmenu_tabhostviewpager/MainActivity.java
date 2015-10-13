@@ -30,7 +30,7 @@ import com.demo.fragments.Rezultate;
 import com.demo.models.NavItem;
 
 public class MainActivity extends ActionBarActivity {
-//sadsad
+
     DrawerLayout drawerLayout;
     RelativeLayout drawerPane;
     ListView lvNav;
